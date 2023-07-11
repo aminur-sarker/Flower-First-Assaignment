@@ -28,15 +28,24 @@
 .quotes{
             text-align-last: initial;
 }
+
+.png-img{
+    display:flex;
+    padding-left:50px;
+}
 .png6{
             background-color:rgb(235, 217, 217) ;
             image-orientation: initial;
             border-radius: 250px 250px 0px 0px;
+            height:400px;
+            width:1100;
 }
 .png5{
             background-color: rgb(206, 243, 231);
             image-orientation: initial;
             border-radius: 250px 250px 0px 0px;
+            height:400px;
+            width:1100;
 }
         
 .png7{
@@ -44,6 +53,8 @@
             border-top-right-radius: 10%;
             border-radius: 250px 250px 0px 0px;
             image-resolution: 100%;
+            height:400px;
+            width:2000;
  }
         
 .feature-short-text{
@@ -59,10 +70,7 @@
             text-align: center;
             
 }
-.png-img{
-            display:flex;
-            padding:2px;
-}
+
 .off{
             color: crimson;
  }
@@ -91,20 +99,31 @@
         
 .four-img{
             display: flex;
-            padding: 5px;
+            padding-left: 100px;
 }
 .ima1{
-            padding-right:5px;
-            border-image-width: 7px;
+    padding-right:5px;
+    width:250px;
+    height:300px;
+    border-radius: 10px;
 }
 .ima2{
-            padding-right:5px;
+    padding-right:5px;
+    width:250px;
+    height:300px;
+    border-radius: 10px;
 }
 .ima3{
-            padding-right:5px;
+    padding-right:5px;
+    width:250px;
+    height:300px;
+    border-radius: 10px;
 }
 .ima4{
-            padding-right:5px;
+    padding-right:5px;
+    width:250px;
+    height:300px;
+    border-radius: 10px;
 }
 
 .background{
@@ -130,7 +149,32 @@
     padding :10px;
     width: 400px;
 }
+.flowershop{
+    background-color: black;
+    color:white;
+    height:250px;
+    text-align: center;
+    padding-top: 20px;
+    display: flex;
+}
+.flow{
+    color: crimson;
+}
+.copy{
+    color: rgb(122, 118, 118);
+}
 
-        
+.contact{
+    text-align: left;
+    padding-left:150px;
+    padding-top:30px;
+}
+.text{
+    margin-left:140px;
+}
+.page{
+    color: rgb(38, 150, 248);
+}
+     
                  
     

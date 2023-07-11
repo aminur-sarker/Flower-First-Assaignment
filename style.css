@@ -21,5 +21,47 @@
         font-size: 18px;
         border-color: white;
     }
-    
+    .flwr-img{
+        shape-image-threshold: 50%;
+        }
+        
+        .quotes{
+            text-align-last: initial;
+        }
+        .png6{
+            background-color:rgb(235, 217, 217) ;
+            image-orientation: initial;
+            border-radius: 250px 250px 0px 0px;
+        }
+        .png5{
+            background-color: rgb(206, 243, 231);
+            image-orientation: initial;
+            border-radius: 250px 250px 0px 0px;
+        }
+        
+        .png7{
+            background-color: rgb(247, 239, 222);
+            border-top-right-radius: 10%;
+            border-radius: 250px 250px 0px 0px;
+            image-resolution: 100%;
+        }
+        
+        .feature-short-text{
+            text-align: center;
+        }
+        feature-short-text-imgP{
+            
+            padding-top: 10px;
+        }
+        
+        .pinkflowertree{
+            padding:2px;
+            text-align: center;
+            
+        }
+        .png-img{
+            display:flex;
+            padding:2px;
+        }
+            
     

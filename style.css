@@ -20,7 +20,11 @@
         font-weight: bold;
         font-size: 18px;
         border-color: white;
+        transition-duration: 0.4s;
  }
+
+ .btn-primary:hover{
+ background-color: rgb(6, 220, 6);}
 .flwr-img{
         shape-image-threshold: 50%;
 }

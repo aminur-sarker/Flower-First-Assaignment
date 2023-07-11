@@ -11,7 +11,7 @@
     font-size: x-large;
     font-weight: initial;
     
-    }
+}
 .btn-primary{
         background-color:rgb(255, 0, 0);
         border-radius: 10px;
@@ -20,64 +20,92 @@
         font-weight: bold;
         font-size: 18px;
         border-color: white;
-    }
+ }
 .flwr-img{
         shape-image-threshold: 50%;
-        }
+}
         
 .quotes{
             text-align-last: initial;
-        }
+}
 .png6{
             background-color:rgb(235, 217, 217) ;
             image-orientation: initial;
             border-radius: 250px 250px 0px 0px;
-        }
+}
 .png5{
             background-color: rgb(206, 243, 231);
             image-orientation: initial;
             border-radius: 250px 250px 0px 0px;
-        }
+}
         
 .png7{
             background-color: rgb(247, 239, 222);
             border-top-right-radius: 10%;
             border-radius: 250px 250px 0px 0px;
             image-resolution: 100%;
-        }
+ }
         
 .feature-short-text{
             text-align: center;
-        }
+ }
 .feature-short-text-imgP{
             
             padding-top: 10px;
-        }
+}
         
 .pinkflowertree{
             padding:2px;
             text-align: center;
             
-        }
+}
 .png-img{
             display:flex;
             padding:2px;
-        }
+}
 .off{
             color: crimson;
-        }
+ }
 .deal{
             
             text-align: center;
             text-align-last: left;
             margin-block:auto;
             padding-left: 200px;
-        }
+}
 .dealandimg{
             
             border: 1px;
             background-color: lightblue;
             display: flex;
-        }
-         
+ }
+.gram{
+            text-align: center;
+ }
+        
+.insta{
+            
+            background-color: white;
+            background-size:0%;
+}
+        
+.four-img{
+            display: flex;
+            padding: 5px;
+}
+.ima1{
+            padding-right:5px;
+            border-image-width: 7px;
+}
+.ima2{
+            padding-right:5px;
+}
+.ima3{
+            padding-right:5px;
+}
+.ima4{
+            padding-right:5px;
+}
+        
+                 
     
